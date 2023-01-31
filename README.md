@@ -2,3 +2,4 @@
 
 Trabajo grupal de egg Git
 Simón
+Sofia Souza
